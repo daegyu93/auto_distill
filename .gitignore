@@ -1,0 +1,7 @@
+grounding_dino/*
+!grounding_dino/.keep
+*.jpg
+*.hdf5
+tao/dataset/hand/labels/*.txt
+tao/tfrecords/*
+!tao/tfrecords/.keep
